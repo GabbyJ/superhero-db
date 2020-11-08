@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+Superhero Database for Marvel and DC to search your favorite characters and get information about them including, their powers, appearance, related movies, and related characters. Built with React using APIs, React Routers, and Tailwind CSS.
+
+I'm creating this project to get more comfortable with APIs and Routers. This will be my first time using Tailwind CSS.
+
+<details>
+
+<summary><h1>Getting Started with Create React App</h1></summary>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+</details>
