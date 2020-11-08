@@ -19199,6 +19199,10 @@ video {
   animation: bounce 1s infinite;
 }
 
+.pick:hover{
+  transform: scale(1.2);
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

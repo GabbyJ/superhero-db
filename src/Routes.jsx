@@ -9,7 +9,7 @@ import Home from "./Components/Home";
 
 export default function Routes() {
     return (
-    <div className="bg-pink-300">
+    <div className="container h-screen w-screen bg-pink-300">
         <Router>
             <Header/>
             <Switch>
