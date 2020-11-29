@@ -1,10 +1,16 @@
-Superhero Database for Marvel and DC to search your favorite characters and get information about them including, their powers, appearance, related movies, and related characters. Built with React using APIs, React Routers, and Tailwind CSS.
+Superhero Database for Marvel and DC to search your favorite characters and get information about them including, their powers, appearance, related movies, and related characters.
 
 I'm creating this project to get more comfortable with APIs and Routers. This will be my first time using Tailwind CSS.
 
+**Created Using:**
+- React
+- Tailwind CSS
+- APIs
+- React Routers
+
 <details>
 
-<summary><h1>Getting Started with Create React App</h1></summary>
+<summary><strong>Getting Started with Create React App</strong></summary>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
